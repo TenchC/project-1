@@ -1,5 +1,14 @@
 #Tench Cholnoky's Python Haiku Bot
 #So powerful, so profound
+
+"""
+  Tench Cholnoky
+  Radical Software, Fall 2021
+  Project 1
+  Sept 23, 2021
+  python3
+"""
+
 import tweepy
 import random
 
